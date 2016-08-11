@@ -1,9 +1,12 @@
-mirror of volley library from android source
 
-from : 
+Download  : 
+
 https://android.googlesource.com/platform/frameworks/volley
 
-original:
-git clone https://android.googlesource.com/platform/frameworks/volley
+DataCache:
 
-update weekly from android source repo
+缓存，只保存url和内容
+
+FakeX509TrustManager：
+
+解决SSL证书问题
